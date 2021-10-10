@@ -11,6 +11,11 @@ const App = () => {
           Juan's Diesel Invoice Tracker
         </h1>
       </header>
+      <main>
+        <button>
+          <p><i class="fas fa-plus"></i> Create New</p>
+        </button>
+      </main>
     </div>
   )
 }
